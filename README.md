@@ -14,9 +14,3 @@ A simple React-based mood tracking web app that lets users log and visualize the
 - 📝 Get a summary of how you've been feeling recent days
 - 🎨 Clean and modern UI with interactive elements
 
-## 🚀 Tech Stack
-
-- **React.js** – Frontend framework
-- **Chart.js** – For mood distribution visualizations
-- **CSS/Flexbox/Grid** – Responsive layout
-- **GitHub Pages** – Deployed using GitHub Pages
