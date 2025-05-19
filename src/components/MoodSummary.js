@@ -1,3 +1,4 @@
+
 import React, { useContext, useMemo } from 'react';
 import styled from 'styled-components';
 import MoodContext from '../context/MoodContext';
@@ -168,5 +169,4 @@ const MoodSummary = () => {
     </SummaryContainer>
   );
 };
-
-export default MoodSummary;
+ export default MoodSummary;

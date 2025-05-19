@@ -113,5 +113,4 @@ export const useMoodData = () => {
     deleteMoodEntry,
     getMoodForDate,
     streaks
-  };
-};
+  }};

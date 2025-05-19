@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moodtracker/static/css/main.39c839d4.css",
+    "main.js": "/moodtracker/static/js/main.49b7c6b9.js",
+    "static/media/image1.jpg": "/moodtracker/static/media/image1.579c78f2407636e9312b.jpg",
+    "index.html": "/moodtracker/index.html",
+    "main.39c839d4.css.map": "/moodtracker/static/css/main.39c839d4.css.map",
+    "main.49b7c6b9.js.map": "/moodtracker/static/js/main.49b7c6b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c839d4.css",
+    "static/js/main.49b7c6b9.js"
+  ]
+}

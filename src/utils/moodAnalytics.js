@@ -1,5 +1,4 @@
 import { getDayOfWeekName, getHourFromDateTime, getTimeOfDay } from './dateUtils';
-
 // Calculate frequency of each mood
 export const calculateMoodFrequency = (moodData, moods) => {
   const counts = {};

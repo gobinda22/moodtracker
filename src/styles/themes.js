@@ -1,3 +1,4 @@
+
 import image from '../assets/image1.jpg';
 
 export const lightTheme = {
@@ -73,4 +74,4 @@ export const darkTheme = {
   
   // Chart colors
   chartColors: ['#4361EE', '#F72585', '#4CC9F0', '#7209B7', '#3A0CA3']
-};
+}
