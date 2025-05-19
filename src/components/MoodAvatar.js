@@ -91,9 +91,6 @@ const MoodAvatar = () => {
   
   const avatarGradient = useMemo(() => {
     if (!averageMood) return null;
-    
-    // If we have a dominant mood, use its color for the gradient
-    // Otherwise, blend colors from top moods
     const colors = topMoods.length > 0 
       ? topMoods.map(mood => mood.color).slice(0, 2) 
       : [moods[0].color, moods[1].color];
